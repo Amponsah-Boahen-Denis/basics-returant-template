@@ -1,0 +1,2 @@
+hell=input('')
+print(hell)
